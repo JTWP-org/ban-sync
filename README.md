@@ -51,3 +51,11 @@ this site can help u set it correctly
 https://crontab.guru/
 
 close and save 
+
+
+
+now as is it now u would need to update the ban list manualy or u can set up a ssh key with github and a cronjob to issue 
+
+`git commit -a -m auto ; git push`
+on one server and then it would update the github from its ban list then push to the other so if u want to ban someone u would send it to server 1 and it would carry over to server 2
+
