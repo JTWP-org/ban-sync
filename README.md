@@ -2,7 +2,7 @@
 ensure the correct players are banned everywhere
 
 
-<h1> this works but was overly compicated so i used a diff method </h1>
+<h1> this works but was overly complicated so i used a diff method </h1>
 
 how it works ?
 
